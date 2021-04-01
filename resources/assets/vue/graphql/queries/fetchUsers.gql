@@ -1,0 +1,13 @@
+query FetchUsers($limit: Int!, $page: Int!, $search: String) {
+  users(limit: $limit, page: $page, search: $search) {
+    per_page
+    total
+    data {
+      id
+      name
+      email
+      type
+      type_id
+    }
+  }
+}

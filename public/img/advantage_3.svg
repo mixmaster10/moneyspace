@@ -1,0 +1,13 @@
+<svg width="42" height="42" viewBox="0 0 42 42" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M18.0415 18.1716L29.2131 7L39.8197 17.6066L31 26.4263V29.2548L41.234 19.0208C42.015 18.2398 42.015 16.9734 41.234 16.1924L30.6274 5.58579C29.8463 4.80474 28.58 4.80474 27.7989 5.58579L15.2131 18.1716H18.0415Z" fill="white"/>
+<rect x="31.9999" y="19.7071" width="5" height="2" rx="1" transform="rotate(-45 31.9999 19.7071)" fill="white"/>
+<mask id="path-3-inside-1" fill="white">
+<rect x="24.4166" y="13.1189" width="6.99652" height="5" rx="1" transform="rotate(-45 24.4166 13.1189)"/>
+</mask>
+<rect x="24.4166" y="13.1189" width="6.99652" height="5" rx="1" transform="rotate(-45 24.4166 13.1189)" stroke="white" stroke-width="4" mask="url(#path-3-inside-1)"/>
+<rect x="2" y="19.1716" width="28" height="17" rx="1" stroke="white" stroke-width="2"/>
+<rect x="3" y="31.1716" width="26" height="2" fill="white"/>
+<rect x="3" y="27.1716" width="26" height="2" fill="white"/>
+<rect x="4" y="24.1716" width="7" height="2" rx="1" fill="white"/>
+<rect x="24" y="24.1716" width="4" height="2" rx="1" fill="white"/>
+</svg>

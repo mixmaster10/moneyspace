@@ -1,0 +1,155 @@
+@font-face {
+    font-family: 'Circular';
+    src: url('CircularStd-Bold.eot');
+    src: url('CircularStd-Bold.eot?#iefix') format('embedded-opentype'),
+        url('CircularStd-Bold.woff2') format('woff2'),
+        url('CircularStd-Bold.woff') format('woff'),
+        url('CircularStd-Bold.ttf') format('truetype'),
+        url('CircularStd-Bold.svg#CircularStd-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Circular Book';
+    src: url('CircularStd-Book.eot');
+    src: url('CircularStd-Book.eot?#iefix') format('embedded-opentype'),
+        url('CircularStd-Book.woff2') format('woff2'),
+        url('CircularStd-Book.woff') format('woff'),
+        url('CircularStd-Book.ttf') format('truetype'),
+        url('CircularStd-Book.svg#CircularStd-Book') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Circular';
+    src: url('CircularStd-Medium.eot');
+    src: url('CircularStd-Medium.eot?#iefix') format('embedded-opentype'),
+        url('CircularStd-Medium.woff2') format('woff2'),
+        url('CircularStd-Medium.woff') format('woff'),
+        url('CircularStd-Medium.ttf') format('truetype'),
+        url('CircularStd-Medium.svg#CircularStd-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Barlow';
+    src: url('Barlow-ExtraLight.eot');
+    src: url('Barlow-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('Barlow-ExtraLight.woff2') format('woff2'),
+        url('Barlow-ExtraLight.woff') format('woff'),
+        url('Barlow-ExtraLight.ttf') format('truetype'),
+        url('Barlow-ExtraLight.svg#Barlow-ExtraLight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Barlow';
+    src: url('Barlow-Regular.eot');
+    src: url('Barlow-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Barlow-Regular.woff2') format('woff2'),
+        url('Barlow-Regular.woff') format('woff'),
+        url('Barlow-Regular.ttf') format('truetype'),
+        url('Barlow-Regular.svg#Barlow-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Barlow';
+    src: url('Barlow-Medium.eot');
+    src: url('Barlow-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Barlow-Medium.woff2') format('woff2'),
+        url('Barlow-Medium.woff') format('woff'),
+        url('Barlow-Medium.ttf') format('truetype'),
+        url('Barlow-Medium.svg#Barlow-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Barlow';
+    src: url('Barlow-SemiBold.eot');
+    src: url('Barlow-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('Barlow-SemiBold.woff2') format('woff2'),
+        url('Barlow-SemiBold.woff') format('woff'),
+        url('Barlow-SemiBold.ttf') format('truetype'),
+        url('Barlow-SemiBold.svg#Barlow-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DM Serif Display';
+    src: url('DMSerifDisplay-Regular.eot');
+    src: url('DMSerifDisplay-Regular.eot?#iefix') format('embedded-opentype'),
+        url('DMSerifDisplay-Regular.woff2') format('woff2'),
+        url('DMSerifDisplay-Regular.woff') format('woff'),
+        url('DMSerifDisplay-Regular.ttf') format('truetype'),
+        url('DMSerifDisplay-Regular.svg#DMSerifDisplay-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('PlayfairDisplay-Regular.eot');
+    src: url('PlayfairDisplay-Regular.eot?#iefix') format('embedded-opentype'),
+        url('PlayfairDisplay-Regular.woff2') format('woff2'),
+        url('PlayfairDisplay-Regular.woff') format('woff'),
+        url('PlayfairDisplay-Regular.ttf') format('truetype'),
+        url('PlayfairDisplay-Regular.svg#PlayfairDisplay-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muli';
+    src: url('Muli.eot');
+    src: url('Muli.eot?#iefix') format('embedded-opentype'),
+        url('Muli.woff2') format('woff2'),
+        url('Muli.woff') format('woff'),
+        url('Muli.ttf') format('truetype'),
+        url('Muli.svg#Muli') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muli';
+    src: url('Muli-Bold.eot');
+    src: url('Muli-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Muli-Bold.woff2') format('woff2'),
+        url('Muli-Bold.woff') format('woff'),
+        url('Muli-Bold.ttf') format('truetype'),
+        url('Muli-Bold.svg#Muli-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DM Mono';
+    src: url('DMMono-Regular.eot');
+    src: url('DMMono-Regular.eot?#iefix') format('embedded-opentype'),
+        url('DMMono-Regular.woff2') format('woff2'),
+        url('DMMono-Regular.woff') format('woff'),
+        url('DMMono-Regular.ttf') format('truetype'),
+        url('DMMono-Regular.svg#DMMono-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

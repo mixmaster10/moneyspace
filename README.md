@@ -1,37 +1,10 @@
 # Laravel Vue Boilerplate
-
-<p align="center">
-  <img src="logo.png" />
-</p>
-
-<p align="center">
-  <a href="https://travis-ci.org/alefesouza/laravel-vue-boilerplate" title="Travis CI"><img src="https://api.travis-ci.org/alefesouza/laravel-vue-boilerplate.svg?branch=master" alt="Travis CI"></a>
-  <a href="https://circleci.com/gh/alefesouza/laravel-vue-boilerplate/tree/master" title="CircleCI"><img src="https://circleci.com/gh/alefesouza/laravel-vue-boilerplate/tree/master.svg?style=shield&circle-token=b088c3cc1d77813436cb6b42907edb9f523c1715" alt="CircleCI"></a>
-  <a href="https://ci.appveyor.com/project/alefesouza/laravel-vue-boilerplate" title="AppVeyor"><img src="https://ci.appveyor.com/api/projects/status/kx7gfnie0eutvvgy?svg=true" alt="AppVeyor"></a>
-</p>
-
-A Laravel 6 Single Page Application boilerplate using Vue.js 2.6, GraphQL, Bootstrap 4, TypeScript, Sass and Pug with:
-
-* A users CRUD if the current user is an admin written in RESTful and GraphQL.
-* i18n for English, Portuguese and Spanish, based on browser language settings.
-* Authentication using JWT.
-* WebSockets with Laravel Echo and Pusher.
-* Vue component tests using Jest and API tests using PHPUnit.
-* Already configured to run tests on Docker, GitLab CI ([with continuous deploy](./DEPLOY.md)), Travis CI, CircleCI, AppVeyor and VSTS CI on Windows, Linux and macOS.
-* Dockerfile configured with PHP 7.2, Node.js 12 and Composer, with MySQL and phpMyAdmin on Docker Compose.
-
-You can check it live [on this website](https://lvb.as.dev), with the credentials:
-
 Admin user
-
     E-mail: admin@example.com
     Password: admin
-
 Normal user
-
     E-mail: normal@example.com
     Password: normal
-
 Notice that all the changed data on that website sample, such as password and CRUD actions, won't be stored.
 
 ## Main dependencies
@@ -69,16 +42,6 @@ Back-end:
 
 Remember to search for "TODO change" on the files to change example code.
 
-### With Docker
-
-Run:
-
-    docker-compose up --build
-
-After it starts, just on the first time, run on another terminal:
-
-    docker exec laravel-vue-boilerplate bash -c "composer start && npm start"
-
 The application will be available on http://localhost:8000 and the phpMyAdmin on http://localhost:8081
 
 ### Common way
@@ -109,8 +72,3 @@ Migrate and seed the database:
 Compile all the front-end stuff:
 
     npm run prod
-
-Test:
-
-    composer test
-    npm test
